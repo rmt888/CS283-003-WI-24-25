@@ -23,15 +23,14 @@
 ## Repository Link
 3. Please provide a link to the repository you are using for this class:  
 
-(https://github.com/rmt888/CS283-003-WI-24-25)
+https://github.com/rmt888/CS283-003-WI-24-25
 
 ---
 
 ## Course Goals
 4. Briefly describe what you want to get out of this class. 
 
-I want to deepen my understanding of system programming, including low-level programming concepts, operating system interactions, and efficient resource management.
-
+I want to deepen my understanding of system programming, including scripting, Unix tools, process management, and networking.
 
 ---
 
@@ -39,4 +38,3 @@ I want to deepen my understanding of system programming, including low-level pro
 5. Briefly describe any concerns you might be having with being successful in this class (if any).
 
 Currently, I don’t have significant concerns but would like to ensure I manage my time effectively to meet deadlines and stay on top of the coursework.
-
