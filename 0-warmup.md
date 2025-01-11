@@ -23,7 +23,7 @@
 ## Repository Link
 3. Please provide a link to the repository you are using for this class:  
 
-[GitHub Repository](https://github.com/rmt888/CS283-003-WI-24-25)
+(https://github.com/rmt888/CS283-003-WI-24-25)
 
 ---
 
